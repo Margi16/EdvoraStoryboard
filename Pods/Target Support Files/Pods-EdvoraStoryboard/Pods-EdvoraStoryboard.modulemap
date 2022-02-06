@@ -1,0 +1,6 @@
+framework module Pods_EdvoraStoryboard {
+  umbrella header "Pods-EdvoraStoryboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
